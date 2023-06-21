@@ -1,7 +1,6 @@
 var subscriptionRadio = document.getElementById("calendly-subscription");
 var freeRadio = document.getElementById("free-calendly");
 var threePageSiteCheckbox = document.getElementById("three-page-site-info");
-var totalAmount = document.getElementById("total-amount");
 var fivePageSiteCheckbox = document.getElementById("five-page-site-info");
 var tenPageSiteCheckbox = document.getElementById("ten-page-site-info");
 var twentyPageSiteCheckbox = document.getElementById("twenty-page-site-info");
